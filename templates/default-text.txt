@@ -1,0 +1,18 @@
+This is a friendly (automated) reminder that the next CSO Committee meeting is scheduled for {{event_date}} at {{event_time}} {{event_timezone}}.
+
+Details: {{event_url}}
+Venue: {{event_venue}}
+
+
+Yours in service,
+
+
+Hamish W
+Information Coordinator
+Alcoholics Anonymous
+ACT & District Central Service Office
+
+
+E: info@aacanberra.org
+P: (02) 6287 3020 (24/7)
+W: aacanberra.org
