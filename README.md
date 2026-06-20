@@ -5,8 +5,8 @@
 ## File Tree
 
 ```text
-cso-meeting-reminder/
-|-- cso-meeting-reminder.php
+meeting-reminder/
+|-- meeting-reminder.php
 |-- uninstall.php
 |-- README.md
 |-- includes/
