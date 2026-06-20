@@ -4,7 +4,7 @@
  * Plugin URI: https://aacanberra.org/
  * Description: Sends admin-managed reminder emails for Canberra AA CSO committee meetings using The Events Calendar REST API.
  * Version: 1.0.0
- * Author: OpenAI Codex
+ * Author: Hamish Wright
  * License: GPL-2.0-or-later
  * Text Domain: cso-meeting-reminder
  * Requires at least: 6.4
