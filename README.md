@@ -33,7 +33,7 @@ cso-meeting-reminder/
 
 ## Setup
 
-1. Copy the plugin folder into `wp-content/plugins/cso-meeting-reminder`.
+1. Copy the plugin folder into `wp-content/plugins/meeting-reminder`.
 2. Activate the plugin in WordPress.
 3. Visit `Settings > CSO Reminder`.
 4. Confirm the TEC endpoint, keyword filter, recipient list, lead time, and send time.
