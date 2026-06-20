@@ -10,16 +10,16 @@ cso-meeting-reminder/
 |-- uninstall.php
 |-- README.md
 |-- includes/
-|   |-- class-cso-meeting-reminder-admin.php
-|   |-- class-cso-meeting-reminder-installer.php
-|   |-- class-cso-meeting-reminder-logger.php
-|   |-- class-cso-meeting-reminder-mail-renderer.php
-|   |-- class-cso-meeting-reminder-mail-sender.php
-|   |-- class-cso-meeting-reminder-plugin.php
-|   |-- class-cso-meeting-reminder-scheduler.php
-|   |-- class-cso-meeting-reminder-settings.php
-|   |-- class-cso-meeting-reminder-state.php
-|   |-- class-cso-meeting-reminder-tec-client.php
+|   |-- class-meeting-reminder-admin.php
+|   |-- class-meeting-reminder-installer.php
+|   |-- class-meeting-reminder-logger.php
+|   |-- class-meeting-reminder-mail-renderer.php
+|   |-- class-meeting-reminder-mail-sender.php
+|   |-- class-meeting-reminder-plugin.php
+|   |-- class-meeting-reminder-scheduler.php
+|   |-- class-meeting-reminder-settings.php
+|   |-- class-meeting-reminder-state.php
+|   |-- class-meeting-reminder-tec-client.php
 |   |-- Calendar/
 |   |   |-- IcsAttachmentService.php
 |   |   |-- IcsGenerator.php
