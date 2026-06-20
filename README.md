@@ -35,7 +35,7 @@ meeting-reminder/
 
 1. Copy the plugin folder into `wp-content/plugins/meeting-reminder`.
 2. Activate the plugin in WordPress.
-3. Visit `Settings > CSO Reminder`.
+3. Visit `Settings > Meeting Reminder`.
 4. Confirm the TEC endpoint, keyword filter, recipient list, lead time, and send time.
    By default, the TEC endpoint must be hosted on the same WordPress site; enable the external endpoint option only when that is intentional.
 5. Use the manual action buttons to preview the next event, preview the rendered email, send a test message, or run the scheduled logic immediately.
